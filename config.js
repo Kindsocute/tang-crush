@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    introTitle: 'Hé lu emmm!',
+    introDesc: `Nghĩa tên là Nghĩa và Nghĩa có điều muốn hỏi!`,
+    btnIntro: 'Hỏi đi ><',
+    title: 'Do you love Kind? -.-',
+    desc: 'Không trả lời mà out ra là toi hờn đó :v ',
+    btnYes: 'Right! Toi yêu anh <333 ',
+    btnNo: 'Không nha! Toi đéo yêu anh :3',
+    question:'Tại sao bae yêu toi? 👉👈 ',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    reply: 'Tại vì anh cute vl :<<<<<<',
+    mess: 'Uiss em đáng iu vl! Iu em 3000',
+    messDesc: 'Xíu toi mua đồ ăn qua cho nhaaaa :3 còn giờ thì inbox cho toi đi nàooo :33',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/kindcute ' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
